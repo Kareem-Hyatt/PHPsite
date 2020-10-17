@@ -1,4 +1,4 @@
-    </div>
+    </div></br><hr/>
 	  <footer>&copy; Kareem Hyatt, Copyright 2020</footer>
     </div>
     <!-- Optional JavaScript; choose one of the two! -->

@@ -2,9 +2,16 @@
   $title = 'home';
   require_once 'includes/header.php';  
 ?>
-  <ul class="nav navbar-nav navbar-right">
+  <!-- <ul>
     <li><a href="about.php">About</a></li>
-  </ul>
+    <li><a href="deposit.php">Deposit</a></li>
+    <li><a href="withdraw.php">Withdraw</a></li>
+    <li><a href="transfer.php">Transfer</a></li>
+    <li><a href="statistics.php">Statistics</a></li>
+    <li><a href="arrays.php">Arrays</a></li>
+    <li><a href="datetime.php">Date</a></li>
+  </ul> -->
+  <hr/>
   <H1>
     Module 1 Banking Website
   </H1>
@@ -21,10 +28,10 @@
     <?php
       // while ($balance == 10000){
 	
-      //   echo 'Main Menu </br>';
-      //   echo 'Select 1 for Deposits </br>';
-      //   echo 'Select 2 for Withdrawls </br>';
-      //   echo 'Select 3 for Balanace Enquirie </br>';
+        echo '</br>';
+        echo 'Select 1 for Deposits </br>';
+        echo 'Select 2 for Withdrawls </br>';
+        echo 'Select 3 for Balanace Enquirie </br>';
 
       //   \n0-Exit\n\
       //   \nPlease select transaction type\n\n");
