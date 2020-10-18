@@ -4,7 +4,6 @@
 
     <h1>Withdraw Page</h1>
     <?php
-        // $balance = 10000;
         $option = 30;
 
         switch($option)
@@ -15,9 +14,5 @@
             break; 
             default: echo '<h2>You are rich!!!.</h3>';
         }
-
-
-
-
     ?>
 <?php require_once 'includes/footer.php' ?>
